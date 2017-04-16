@@ -1,0 +1,76 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.accs.ChannelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.amap.api.location.APSService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.tao.messagekit.base.AccsReceiverService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.AccsTlogService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.ActionService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="org.android.agoo.accs.AgooService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.android.sso.internal.AlipayAuthenticationService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.msg.alwaylive.AlwaysLiveService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.alibaba.analytics.AnalyticsService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.android.sso.internal.AuthenticationService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.idlefish.xframework.fishbus.BusService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.accs.ChannelService$KernelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.ChatService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.avplayer.service.DWH5PluginService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.avplayer.service.DWPowerMsgService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.xiaomi.mipush.sdk.MessageHandleService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.accs.data.MsgDistributeService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="anetwork.channel.aidl.NetworkService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.orange.service.OrangeApiService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.android.sso.internal.PidGetterService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.alibaba.poplayer.utils.PopLayerConsole">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.PushService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.idlefish.TaobaoIntentService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.agoo.TaobaoMessageIntentReceiverService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.function.fishbus.test.TestServiceA">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.service.UpdateService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.taobao.idlefish" class="mtopsdk.xstate.XStateService">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.agoo.AgooCommondReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.accs.EventReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="org.android.agoo.huawei.HuaWeiReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.alipay.android.app.LiveConnectReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="org.android.agoo.xiaomi.MiPushBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.fleamarket.function.network.NetworkReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.orange.receiver.OrangeReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.tao.powermsg.PowerMsgReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.taobao.idlefish" class="com.taobao.accs.ServiceReceiver">
+ 	</prescription>
+</prescriptions>
